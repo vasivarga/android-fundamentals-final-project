@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587861719248",
+    "firebase_url": "https://notesapp-b1b6f.firebaseio.com",
+    "project_id": "notesapp-b1b6f",
+    "storage_bucket": "notesapp-b1b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587861719248:android:5f76c1626c0245b18046d5",
+        "android_client_info": {
+          "package_name": "com.vasi.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587861719248-gp84heb0n31pd0tlnluett5j1hudtj42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vasi.test",
+            "certificate_hash": "749d70aa5a28bcc4e1b18c27994632996b372a91"
+          }
+        },
+        {
+          "client_id": "587861719248-fcp1j2r34vuihq490c7c2r6hbhoh3mdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7njL1milmSUg0WIDB5fTw2GLXxef2IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587861719248-fcp1j2r34vuihq490c7c2r6hbhoh3mdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
